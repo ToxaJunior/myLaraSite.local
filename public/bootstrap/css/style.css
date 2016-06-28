@@ -1,0 +1,46 @@
+/*.navbar{*/
+    /*background: #8372ff;*/
+/*}*/
+/*.navbar li:hover{*/
+    /*background: #a274ff;*/
+/*}*/
+.adminPage{
+    margin-top: 25%;
+}
+.img-table{
+    margin-top: 20px;
+}
+.show-Img{
+    width: 120px;
+    height: 100px;
+    border: 3px solid #ffffff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.7);
+    margin: 15px;
+}
+.my-bg{
+    background-color: #e2e2e2;
+    padding: 20px;
+    border-radius: 5px;
+}
+.block-preview{
+    padding: 15px;
+    border: groove #afafaf 1px;
+    background-color: #d6d6d6;
+    border-radius: 5px;
+    margin: 10px;
+}
+.my-bg input{
+    padding: 5px 0;
+}
+.my-bg button{
+    margin-top: 20px;
+}
+.articles_list{
+    margin-top: 50px;
+}
+.del-mess:hover{
+    text-decoration: none;
+}
+.del-mess-label{
+    color: #1d75b3;
+}

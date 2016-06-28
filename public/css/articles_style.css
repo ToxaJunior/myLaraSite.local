@@ -1,0 +1,116 @@
+.wrapper {
+	min-height: 1000px;
+	width: 1100px;
+	margin: 20px auto;
+	background: rgba(255,248,221,0.7);
+	border-radius: 10px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.7);
+}
+#msg{
+	position: fixed;
+	left: 40%;
+	top: 50%;
+	background: rgba(255,248,221,1);
+	border-radius: 5px;
+	text-align: center;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	padding: 10px 20px;
+	font-weight: bold;
+}
+#msg p{
+	margin-top: 20px;
+}
+#msg button{
+	padding: 0 30px;
+	margin: 10px 20px 5px 20px;
+
+}
+.list{
+	margin: 50px 100px;
+}
+li{
+	list-style-type: none;
+}
+.list a{
+	color: rgba(78,189,255,255);
+}
+.list a:hover{
+	color: rgba(19,94,208,255);
+}
+.title{
+	font-size: 16px;
+}
+.del{
+	padding: 0;
+	margin: 0;
+}
+.del a{
+	color: #e30d0d;
+	padding: 5px 20px;
+	text-decoration: none;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.7);
+	background: #ffffff;
+	margin-top: 20px;
+}
+.del a:hover{
+	color: #ffffff;
+	padding: 5px 20px;
+	text-decoration: none;
+	background: #e30d0d;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.7);
+}
+.submit{
+  	margin-top: 30px;
+  	margin-left: 450px;
+}
+p{
+  	margin: 10px 0;
+  	margin-left: 30px;
+}
+label{
+	margin-left: 30px;
+	color: #bb5816;
+	font-weight: bold;
+}
+h3{
+	width: 35%;
+	margin: 0 auto;
+}
+.list td{
+	padding: 5px 20px;
+}
+.list th{
+	padding: 10px 20px;
+}
+.empty{
+	width: 150px;
+}
+.form{
+	padding: 10px 0;
+}
+#pagination{
+	width: 400px;
+	margin: 0 auto;
+}
+#pagination li{
+	display: inline-block;
+	padding: 0 10px;
+}
+.tab_mess{
+	width: 900px;
+	margin: 0 auto;
+	margin-top: 50px;
+	border-collapse: collapse;
+}
+.tab_mess td, .tab_mess th{
+	padding: 5px 10px;
+	border: groove black 1px;
+}
+.tab_mess th{
+	text-align: center;
+}
+.tab_mess span{
+	float: right;
+}

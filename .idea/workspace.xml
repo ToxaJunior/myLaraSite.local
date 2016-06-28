@@ -1,0 +1,1963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09badf63-2936-43fb-83fa-11e8682852e5" name="Default" comment="full project">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/myLaraSite.local.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/logs/.gitignore" />
+    </list>
+    <list id="1dc76ce4-2b7a-4248-8f35-6fd57d60d7ac" name="Rejected commit: Default" comment="project">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/bricks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/electric_drill.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/gallery-layout.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/hammer-j.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/hammer-s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/header-img-gallery.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/header-img-news.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/icon-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/image-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/latest_news/image-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/latest_news/man-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/latest_news/man-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/latest_news/man-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/latest_news/man-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/man-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/man-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/man-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/man-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/man.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/paint-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/paint-r.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/paint-yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/plier.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/ruler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/slide-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/slide-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/slide-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/u-bend.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/images/yellow-line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/123.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/Logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/Logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/alert.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/bg21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/bg_header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/log.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/woman_header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/worker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/worker1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/worker2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/worker3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/worker4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/about/dialogs/logo_ckeditor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/flash/images/placeholder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/forms/images/hiddenfield.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/icons_hidpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/iframe/images/placeholder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/image/images/noimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/link/images/anchor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/link/images/hidpi/anchor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/magicline/images/hidpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/magicline/images/icon-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/magicline/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/pagebreak/images/pagebreak.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/showblocks/images/block_address.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/showblocks/images/block_blockquote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/showblocks/images/block_div.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/showblocks/images/block_h1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/showblocks/images/block_h2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/showblocks/images/block_h3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/showblocks/images/block_h4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/showblocks/images/block_h5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/showblocks/images/block_h6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/showblocks/images/block_p.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/showblocks/images/block_pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/angel_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/angel_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/angry_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/angry_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/broken_heart.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/broken_heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/confused_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/confused_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/cry_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/cry_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/devil_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/devil_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/embaressed_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/embarrassed_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/embarrassed_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/envelope.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/envelope.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/heart.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/kiss.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/kiss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/lightbulb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/lightbulb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/omg_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/omg_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/regular_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/regular_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/sad_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/sad_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/shades_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/shades_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/teeth_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/teeth_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/thumbs_down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/thumbs_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/thumbs_up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/thumbs_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/tongue_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/tongue_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/tounge_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/wink_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/images/wink_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/templates/templates/images/template1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/templates/templates/images/template2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/templates/templates/images/template3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/img/github-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/img/header-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/img/header-separator.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/img/navigation-tip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/assets/inlineall/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/assets/sample.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/htmlwriter/assets/outputforflash/outputforflash.fla" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/htmlwriter/assets/outputforflash/outputforflash.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/font/fontello.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/font/fontello.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/font/fontello.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/icons_hidpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/images/hidpi/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/images/hidpi/lock-open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/images/hidpi/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/images/hidpi/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/images/lock-open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/images/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/images/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/images/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/source/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/source/fancybox_loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/source/fancybox_loading@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/source/fancybox_overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/source/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/source/fancybox_sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/source/helpers/fancybox_buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/bg_transparent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/..png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/.image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/avi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/bat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/bmp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/bz2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/ccd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/cgi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/com.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/csh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/cue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/deb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/dll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/docx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/exe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/fla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/flv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/fon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/gif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/gz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/htm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/html.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/ini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/iso.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/jar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/java.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/jpeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/jpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/js.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/mds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/mdx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/mid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/midi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/mkv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/mov.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/mp3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/mp4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/mpeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/mpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/nfo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/nrg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/ogg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/php.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/phps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/pl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/pm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/png.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/ppt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/pptx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/psd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/qt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/rar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/rpm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/rtf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/sh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/sql.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/srt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/sub.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/swf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/tgz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/tif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/tiff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/torrent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/ttf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/txt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/wav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/wma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/xlsx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/big/zip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/..png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/.image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/avi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/bat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/bmp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/bz2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/ccd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/cgi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/com.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/csh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/cue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/deb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/dll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/docx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/exe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/fla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/flv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/fon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/gif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/gz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/htm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/html.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/ini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/iso.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/jar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/java.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/jpeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/jpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/js.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/mds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/mdx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/mid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/midi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/mkv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/mov.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/mp3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/mp4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/mpeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/mpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/nfo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/nrg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/ogg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/php.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/phps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/pl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/pm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/png.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/ppt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/pptx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/psd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/qt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/rar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/rpm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/rtf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/sh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/sql.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/srt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/sub.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/swf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/tgz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/tif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/tiff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/torrent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/ttf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/txt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/wav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/wma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/xlsx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/files/small/zip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/icons/about.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/icons/clipboard-add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/icons/clipboard-clear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/icons/clipboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/icons/copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/icons/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/icons/download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/icons/folder-new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/icons/maximize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/icons/move.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/icons/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/icons/rename.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/icons/select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/icons/settings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/icons/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/icons/view.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/kcf_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/tree/denied.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/tree/folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/tree/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/tree/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/ui-icons_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/ui-icons_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/img/ui-icons_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/bg_transparent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/..png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/.image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/avi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/bat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/bmp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/bz2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/ccd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/cgi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/com.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/csh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/cue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/deb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/dll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/docx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/exe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/fla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/flv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/fon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/gif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/gz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/htm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/html.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/ini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/iso.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/jar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/java.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/jpeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/jpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/js.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/mds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/mdx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/mid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/midi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/mkv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/mov.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/mp3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/mp4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/mpeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/mpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/nfo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/nrg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/ogg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/php.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/phps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/pl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/pm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/png.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/ppt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/pptx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/psd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/qt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/rar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/rpm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/rtf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/sh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/sql.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/srt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/sub.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/swf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/tgz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/tif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/tiff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/torrent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/ttf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/txt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/wav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/wma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/xlsx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/big/zip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/..png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/.image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/avi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/bat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/bmp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/bz2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/ccd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/cgi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/com.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/csh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/cue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/deb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/dll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/docx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/exe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/fla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/flv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/fon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/gif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/gz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/htm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/html.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/ini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/iso.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/jar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/java.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/jpeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/jpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/js.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/mds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/mdx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/mid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/midi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/mkv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/mov.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/mp3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/mp4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/mpeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/mpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/nfo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/nrg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/ogg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/php.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/phps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/pl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/pm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/png.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/ppt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/pptx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/psd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/qt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/rar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/rpm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/rtf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/sh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/sql.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/srt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/sub.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/swf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/tgz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/tif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/tiff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/torrent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/ttf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/txt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/wav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/wma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/xlsx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/files/small/zip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/icons/about.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/icons/clipboard-add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/icons/clipboard-clear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/icons/clipboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/icons/copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/icons/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/icons/download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/icons/folder-new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/icons/maximize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/icons/move.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/icons/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/icons/rename.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/icons/select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/icons/settings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/icons/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/icons/view.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/kcf_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/tree/denied.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/tree/folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/tree/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/tree/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/ui-icons_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/ui-icons_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/img/ui-icons_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/arrows-active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/arrows-normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/crop.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/dialogs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/icons-big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/icons-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/progress.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/quicklook-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/quicklook-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/resize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/spinner-mini.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/toolbar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/volume_icon_dropbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/volume_icon_ftp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/volume_icon_googledrive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/volume_icon_local.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/img/volume_icon_sql.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/.thumbs/images/3.04.2014 021.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/.thumbs/images/worker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/.thumbs/images/worker2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images/worker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images/worker2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_large/1466948951.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_large/1466948973.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_large/1466949015.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_large/1466949055.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_large/1466949077.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_large/1466949109.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_large/1466949160.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_large/1466949176.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_large/1466949227.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_large/1466949887.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_news/1465316799.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_news/1465318917.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_news/1465318948.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_news/1465318971.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_news/1465319001.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_news/1465319023.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_news/1465373511.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_news/1465453826.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_news/1465453880.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_news/1465473804.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_news/1465503829.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_news/1465504086.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_news/1465504592.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_news/1465504963.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_news/1465506391.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_news/1466365872.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_news/1466950698.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_small/1466948951.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_small/1466948973.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_small/1466949015.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_small/1466949055.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_small/1466949077.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_small/1466949109.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_small/1466949160.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_small/1466949176.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_small/1466949227.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/images_small/1466949887.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.env.example" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Console/Commands/Inspire.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Events/Event.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Feedback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminPageController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/FeedbackController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/GalleryController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/PageController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Requests/Request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/ImageProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Images.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Jobs/Job.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Listeners/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/MyCategory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Policies/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artisan" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/app.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/cache/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/app.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/broadcasting.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/cartalyst.sentinel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/compile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/filesystems.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/mail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/queue.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/services.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/factories/ModelFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/RoleSeeder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpunit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/css/modbox_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/css/test_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/articles_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/error_msg.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/adapters/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/build-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/ckeditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/contents.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/de-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/mn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/sr-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/tt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/about/dialogs/about.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/clipboard/dialogs/paste.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/colordialog/dialogs/colordialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/dialog/dialogDefinition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/div/dialogs/div.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/find/dialogs/find.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/flash/dialogs/flash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/forms/dialogs/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/forms/dialogs/checkbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/forms/dialogs/form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/forms/dialogs/hiddenfield.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/forms/dialogs/radio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/forms/dialogs/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/forms/dialogs/textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/forms/dialogs/textfield.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/iframe/dialogs/iframe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/image/dialogs/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/link/dialogs/anchor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/link/dialogs/link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/liststyle/dialogs/liststyle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/pastefromword/filter/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/preview/preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/scayt/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/scayt/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/scayt/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/scayt/dialogs/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/scayt/dialogs/toolbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/smiley/dialogs/smiley.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/tt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/specialchar/dialogs/specialchar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/table/dialogs/table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/tabletools/dialogs/tableCell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/templates/dialogs/templates.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/templates/dialogs/templates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/templates/templates/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/wsc/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/wsc/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/wsc/dialogs/ciframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/wsc/dialogs/wsc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/wsc/dialogs/wsc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/plugins/wsc/dialogs/wsc_ie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/css/samples.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/js/sample.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/js/sf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/api.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/appendto.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/assets/outputxhtml/outputxhtml.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/assets/posteddata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/assets/uilanguages/languages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/datafiltering.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/dialog/assets/my_dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/dialog/dialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/divreplace.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/enterkey/enterkey.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/htmlwriter/assets/outputforflash/swfobject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/htmlwriter/outputforflash.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/htmlwriter/outputhtml.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/inlineall.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/inlinebycode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/inlinetextarea.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/jquery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/magicline/magicline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/readonly.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/replacebyclass.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/replacebycode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/sample.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/sample.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/sample_posteddata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/tabindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/toolbar/toolbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/uicolor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/uilanguages.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/wysiwygarea/fullpage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/old/xhtmlstyle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/css/fontello.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/font/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/font/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/font/fontello.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/js/abstracttoolbarmodifier.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/js/fulltoolbareditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/js/toolbarmodifier.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/js/toolbartextmodifier.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/lib/codemirror/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/lib/codemirror/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/lib/codemirror/neo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/dialog_ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/dialog_ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/dialog_ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/dialog_iequirks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/editor_gecko.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/editor_ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/editor_ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/editor_ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/editor_iequirks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/skins/moono/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/ckeditor/styles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/lib/jquery-1.10.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/lib/jquery-1.9.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/lib/jquery.mousewheel-3.0.6.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/source/helpers/jquery.fancybox-buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/source/helpers/jquery.fancybox-buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/source/helpers/jquery.fancybox-media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/source/helpers/jquery.fancybox-thumbs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/source/helpers/jquery.fancybox-thumbs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/source/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/source/jquery.fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/fancybox/source/jquery.fancybox.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery-1.7.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/adapters/jquery-example.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/adapters/jquery-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/adapters/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/browse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/cache/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/cache/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/cache/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/cache/theme_dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/cache/theme_dark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/cache/theme_default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/cache/theme_default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/conf/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/conf/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/conf/upload.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/core/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/core/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/core/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/core/class/browser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/core/class/minifier.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/core/class/session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/core/class/uploader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/core/types/type_img.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/core/types/type_mime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/css/000.base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/css/001.transForm.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/css/999.agent.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/doc/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/doc/Changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/doc/LICENSE.GPL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/doc/LICENSE.LGPL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/integration/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/integration/BolmerCMS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/integration/drupal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/integration/laraveladministrator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/000._jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/002._jqueryui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/006.jquery.transForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/010.jquery.fixes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/020.jquery.rightClick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/021.jquery.taphold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/022.jquery.shDropUpload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/029.jquery.agent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/030.jquery.helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/031.jquery.md5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/040.object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/041.dialogs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/050.init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/060.toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/070.settings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/080.files.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/090.folders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/091.menus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/091.viewImage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/100.clipboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/110.dropUpload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/120.misc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/js_localize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/af.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/bg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/ca.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/cs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/da.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/de.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/el.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/en.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/es.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/et.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/fa.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/fi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/fr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/he.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/hu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/id.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/it.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/ja.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/lt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/lv.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/nl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/no.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/pl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/pt-br.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/pt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/ro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/ru.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/sk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/sv.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/tr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/uk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/vi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lang/zh-cn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lib/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lib/class_fastImage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lib/class_image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lib/class_image_gd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lib/class_image_gmagick.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lib/class_image_imagick.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lib/class_zipFolder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lib/helper_dir.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lib/helper_file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lib/helper_httpCache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lib/helper_path.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lib/helper_phpGet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/lib/helper_text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/01.ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/02.transForm.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/03.misc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/dark/js.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/01.ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/02.transForm.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/03.misc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/themes/default/js.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/tpl/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/tpl/tpl_browser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/tpl/tpl_css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/tpl/tpl_javascript.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/kcfinder/upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/css/elfinder.full.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/css/elfinder.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/css/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/elfinder.full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/elfinder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/extras/quicklook.googledocs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.LANG.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.jp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.pt_BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.ug_CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.zh_CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/i18n/elfinder.zh_TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/proxy/elFinderSupportVer1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/standalonepopup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/standalonepopup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/packages/barryvdh/elfinder/js/tiny_mce_popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/upload/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/sass/app.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/pagination.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/passwords.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ru/auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ru/pagination.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ru/passwords.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ru/validation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/adminView/addPage.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/adminView/articles.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/adminView/categories.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/adminView/editPage.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/adminView/feedback.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/adminView/gallery.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/adminView/indexAdminPage.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/article.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/emails/password.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/errors/503.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/latest_news.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/layouts/admin_layout.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/layouts/main.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/modbox/modbox1.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/showGallery.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/vendor/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/app/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/app/public/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/cache/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/sessions/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/views/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/ExampleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/TestCase.php" />
+    </list>
+    <ignored path="myLaraSite.local.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ComposerSettings">
+    <pharPath>C:\OpenServer\modules\php\PHP-5.5\composer.phar</pharPath>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="myLaraSite.local" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PageController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PageController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
+              <folding>
+                <element signature="e#40#57#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/IndexController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="31" column="88" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="88" />
+              <folding>
+                <element signature="e#120#137#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="latest_news.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/latest_news.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.258064">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/article.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.548387">
+              <caret line="5" column="71" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GalleryController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.37641722">
+              <caret line="72" column="42" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/adminView/gallery.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="41" column="47" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/views/editPage.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/indexAdminPage.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/feedback.blade.php" />
+        <option value="$PROJECT_DIR$/app/Images.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ImageController.php" />
+        <option value="$PROJECT_DIR$/resources/views/gallery.blade.php" />
+        <option value="$PROJECT_DIR$/storage/app/upload/.htaccess" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AdminPageController.php" />
+        <option value="$PROJECT_DIR$/public/css/gallery.css" />
+        <option value="$PROJECT_DIR$/resources/views/adminView/indexAdminPage.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/barryvdh/laravel-elfinder/config/elfinder.php" />
+        <option value="$PROJECT_DIR$/public/js/ckeditor/config.js" />
+        <option value="$PROJECT_DIR$/public/js/kcfinder/conf/upload.htaccess" />
+        <option value="$PROJECT_DIR$/public/js/kcfinder/conf/config.php" />
+        <option value="$PROJECT_DIR$/public/css/modbox_style.css" />
+        <option value="$PROJECT_DIR$/public/css/main.css" />
+        <option value="$PROJECT_DIR$/resources/views/test_index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/test_main.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/fancybox/source/jquery.fancybox.pack.js" />
+        <option value="$PROJECT_DIR$/resources/views/showGallery.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/fancybox/source/jquery.fancybox.css" />
+        <option value="$PROJECT_DIR$/public/css/articles_style.css" />
+        <option value="$PROJECT_DIR$/resources/views/adminView/editPage.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/adminView/addPage.blade.php" />
+        <option value="$PROJECT_DIR$/app/MyClasses/CategoryName.php" />
+        <option value="$PROJECT_DIR$/app/Providers/CategoryNameProvider.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/resources/views/adminView/articles.blade.php" />
+        <option value="$PROJECT_DIR$/app/Page.php" />
+        <option value="$PROJECT_DIR$/public/bootstrap/css/modbox_style.css" />
+        <option value="$PROJECT_DIR$/resources/views/modbox/modbox1.blade.php" />
+        <option value="$PROJECT_DIR$/public/bootstrap/css/style.css" />
+        <option value="$PROJECT_DIR$/resources/views/adminView/feedback.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/FeedbackController.php" />
+        <option value="$PROJECT_DIR$/resources/views/article.blade.php" />
+        <option value="$PROJECT_DIR$/app/Category.php" />
+        <option value="$PROJECT_DIR$/app/Providers/wDWQDWQDWQ.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/app/MyCategory.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/main.blade.php" />
+        <option value="$PROJECT_DIR$/public/bootstrap/css/test_style.css" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/resources/views/adminView/categories.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/admin_layout.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/adminView/gallery.blade.php" />
+        <option value="$PROJECT_DIR$/app/ImageProcessor.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/GalleryController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/PageController.php" />
+        <option value="$PROJECT_DIR$/resources/views/latest_news.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.5">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../modules/php/PHP-5.5" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1688" />
+    <option name="height" value="1058" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myLaraSite.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myLaraSite.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myLaraSite.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myLaraSite.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myLaraSite.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myLaraSite.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myLaraSite.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.GalleryController.php">
+    <configuration default="false" name="GalleryController.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/myLaraSite.local/app/Http/Controllers/GalleryController.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.GalleryController.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.GalleryController.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09badf63-2936-43fb-83fa-11e8682852e5" name="Default" comment="" />
+      <created>1462630296681</created>
+      <option name="number" value="Default" />
+      <updated>1462630296681</updated>
+    </task>
+    <task id="LOCAL-00001" summary="project">
+      <created>1467113417330</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1467113417330</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1688" height="1058" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23015873" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.502442" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2715655" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="96" y="96" width="1488" height="858" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290735" sideWeight="0.497558" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32800853" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399361" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="project" />
+    <option name="LAST_COMMIT_MESSAGE" value="project" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4695122">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/error_msg.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/adminView/indexAdminPage.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/ckeditor/build-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/ckeditor/ckeditor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/kcfinder/conf/upload.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70212764">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/kcfinder/upload/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/kcfinder/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/kcfinder/conf/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/ckeditor/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/kcfinder/conf/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/bootstrap/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.170068">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/fancybox/source/jquery.fancybox.pack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.22891566">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/fancybox/source/jquery.fancybox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6235828">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0226758">
+          <caret line="41" column="60" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/adminView/editPage.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Images.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/modbox/modbox1.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Feedback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2494331">
+          <caret line="10" column="67" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/bootstrap/css/modbox_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4193548">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FeedbackController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57369614">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/adminView/feedback.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AdminPageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.806452">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/adminView/addPage.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/MyCategory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.580645">
+          <caret line="65" column="61" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/bootstrap/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.387096">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/articles_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8503401">
+          <caret line="115" column="1" selection-start-line="115" selection-start-column="1" selection-end-line="115" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/bootstrap/css/test_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/adminView/articles.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/adminView/categories.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/admin_layout.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="82" selection-start-line="41" selection-start-column="82" selection-end-line="41" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/main.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="84" selection-start-line="72" selection-start-column="50" selection-end-line="72" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/showGallery.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/adminView/gallery.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.0">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ImageProcessor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14965986">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2652705">
+          <caret line="160" column="0" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7277486">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GalleryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
+          <folding>
+            <element signature="e#40#57#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="47" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="88" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="88" />
+          <folding>
+            <element signature="e#120#137#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/latest_news.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.258064">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/article.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.548387">
+          <caret line="5" column="71" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37641722">
+          <caret line="72" column="42" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
