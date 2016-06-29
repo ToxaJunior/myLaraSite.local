@@ -140,4 +140,8 @@ class PageController extends Controller
         unlink($this->dirNewsOriginal.$content->img_preview);
         return redirect('/page');
     }
+    public function getCountArticles($id){
+
+        return Page::orderBy('id', 'desc')->where('category_id', '=', $id)->count();
+    }
 }
