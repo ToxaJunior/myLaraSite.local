@@ -1,3 +1,4 @@
+@inject('pageController', 'App\Http\Controllers\PageController')
 @extends('layouts.main')
 @section('content')
     <div class="row slider">
@@ -55,7 +56,7 @@
                                            href="{{url('/showArticle/'.$item->id)}}">{{$item->name}}</a>
                                 </div>
                                 <div class="inline category-count">
-                                    ({{App\Page::orderBy('id', 'desc')->where('category_id', '=', $item->id)->count()}})
+                                    ({{$pageController->getCountArticles($item->id)}})
                                 </div>
                             </div>
                         @endforeach
